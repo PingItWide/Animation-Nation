@@ -42,6 +42,13 @@ let cards = [
     githubLink: "https://github.com/shaileshkr7",
   },
   {
+    artName: 'Animaniac',
+    pageLink: './Art/animaniac/index.html',
+    imageLink: './Art/animaniac/.gif',
+    author: 'Dominic Charmello',
+    githubLink: 'https://github.com/PingItWide'
+  },
+  {
     artName: "Gloomy Loading Ring",
     pageLink: "./Art/kevinsana/index.html",
     imageLink: "./Art/kevinsana/kevinsana.jpg",
